@@ -1,7 +1,7 @@
 
 # Pokedex React
 
-![build](https://github.com/AkeUS/pokedex-react/workflows/build/badge.svg?branch=main)
+
 
 Aplicación construida con ReactJS.
 
@@ -23,10 +23,5 @@ Ejecutar aplicación
 npm start
 ```
 
-## Ejecutar con Docker
-
-```shell
-docker run -d -p 3000:80 akeus/pokedex-react
-```
 
 Abrir un navegador e ingresar a http://localhost:3000
